@@ -6,7 +6,6 @@ marp: true
 
 # Unusual Tech
 
-
 ---
 
 ## This presentation
