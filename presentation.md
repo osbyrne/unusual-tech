@@ -38,7 +38,11 @@ marp: true
 
 [Doom on a point of sale terminal](https://www.reddit.com/r/itrunsdoom/comments/1fmegao/doom_running_on_a_pos_terminal_vx820/)
 
+[Doom](https://www.reddit.com/r/itrunsdoom/comments/1d41wlt/panasonic_welding_robot/)
 TODO : pictures
+
+https://www.reddit.com/r/itrunsdoom/comments/12edboe/doom_in_windows_system_tray/
+https://www.reddit.com/r/itrunsdoom/comments/srgoxb/doom_on_lg_webos/
 
 ---
 
